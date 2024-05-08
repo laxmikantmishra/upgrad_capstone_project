@@ -1,6 +1,4 @@
-# upGrad Course 8:
-
-## Capston project:
+## upGrad Course 8 Capston project:
 
 ### Credit card fraud detection
 
